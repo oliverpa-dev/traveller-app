@@ -1,0 +1,34 @@
+{
+    "1": {
+        "text": "Energetic",
+        "color": "2e9c8c"
+    },
+    "2": {
+        "text": "Adventurous",
+        "color": "e66f51"
+    },
+    "3": {
+        "text": "Talkative",
+        "color": "e9c46b"
+    },
+    "4": {
+        "text": "Fun",
+        "color": "f3a261"
+    },
+    "5": {
+        "text": "Tolerant",
+        "color": "f3a261"
+    },
+    "6": {
+        "text": "Friendly",
+        "color": "e9c46b"
+    },
+    "7": {
+        "text": "Calm",
+        "color": "e66f51"
+    },
+    "8": {
+        "text": "Quiet",
+        "color": "2e9c8c"
+    }
+}

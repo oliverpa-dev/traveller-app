@@ -1,0 +1,9 @@
+{
+    "1": {
+        "name": "Jan Kowalski",
+        "address": "Eindhoven",
+        "like": false,
+        "ratting": 10,
+        "imgUrl": "/img/Jan.png"
+    }
+}

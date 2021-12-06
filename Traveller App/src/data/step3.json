@@ -1,0 +1,26 @@
+{
+    "1": {
+        "text": "English",
+        "color": "2e9c8c"
+    },
+    "2": {
+        "text": "Spanish",
+        "color": "e66f51"
+    },
+    "3": {
+        "text": "Chinese",
+        "color": "e9c46b"
+    },
+    "4": {
+        "text": "Portuguese",
+        "color": "f3a261"
+    },
+    "5": {
+        "text": "German",
+        "color": "f3a261"
+    },
+    "6": {
+        "text": "Another",
+        "color": "e9c46b"
+}
+}

@@ -1,0 +1,30 @@
+.item {
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+  text-align: left;
+  padding: 25px 15px 25px 25px;
+  color: white;
+  margin: 4px;
+  width: calc(50% - 8px);
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  word-wrap: break-word;
+}
+
+.item:hover {
+  cursor: pointer;
+}
+.c2e9c8c {
+  background-color: #2e9c8c;
+}
+.ce66f51 {
+  background-color: #e66f51;
+}
+.cf3a261 {
+  background-color: #f3a261;
+}
+.ce9c46b {
+  background-color: #e9c46b;
+}
